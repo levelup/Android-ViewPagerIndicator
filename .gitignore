@@ -3,8 +3,8 @@ bin
 gen
 
 #Eclipse
-.project
-.classpath
+#.project
+#.classpath
 .settings
 
 #IntelliJ IDEA
@@ -19,5 +19,5 @@ pom.xml.*
 
 #Command line
 local.properties
-build.xml
+#build.xml
 proguard-project.txt
